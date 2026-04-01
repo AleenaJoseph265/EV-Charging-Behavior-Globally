@@ -13,5 +13,6 @@ This project provides a global overview of EV charging infrastructure.
 - Evaluates station utilization
 
 ## 📁 Files
-- Dashboard.pbix
-- Dataset.xlsx
+-EV Charging Dashboard.png
+-Global_EV.xlsx
+
