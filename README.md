@@ -1,5 +1,5 @@
 # EV-Charging-Station-Behavior-Globally
-![Ev Charging Dashboard](https://github.com/user-attachments/assets/7f953bc7-a9ed-4e14-b846-e2b49164890b" />)
+![Ev Charging Dashboard](https://github.com/user-attachments/assets/d66915df-d97b-4949-85ed-3e146daa8437)
 Global analysis of EV charging infrastructure using Power BI, focusing on cost, battery capacity, and station utilization.
 ## 📌 Project Overview
 This project provides a global overview of EV charging infrastructure.
