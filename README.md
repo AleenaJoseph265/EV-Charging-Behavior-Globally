@@ -14,7 +14,7 @@ This project provides a global overview of EV charging infrastructure.
 - Evaluates station utilization
 
 ## Dataset
-![Download Dataset Global EV](https://docs.google.com/spreadsheets/d/1Zh2RduA39n6FhscuowzTquUBA0IIscGk/edit?usp=sharing&ouid=106426652744158222794&rtpof=true&sd=true)
+[Download Dataset Global EV](https://docs.google.com/spreadsheets/d/1Zh2RduA39n6FhscuowzTquUBA0IIscGk/edit?usp=sharing&ouid=106426652744158222794&rtpof=true&sd=true)
 
 
 
